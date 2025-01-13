@@ -35,6 +35,6 @@
 ![Danyal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danyal123&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
 
 ## 🤝 Connect with Me:
-[![LinkedIn](https://www.linkedin.com/in/hm-danyal-sajid-69b993233/)
-[![Portfolio Website](https://danyalsajid.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/hm-danyal-sajid-69b993233/)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-blue?logo=Portfolio-Website)](https://danyalsajid.netlify.app)
 
