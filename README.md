@@ -16,10 +16,7 @@ I work with Python, TensorFlow, PyTorch, scikit-learn, Angular, WordPress, Docke
 
 [See My Portfolio](https://danyalsajid.netlify.app/)
 
-###  Connect with Me
 
--  Microsoft Teams | Skype Email: **muhammaddanyal429@gmail.com**
--  [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&logoColor=white)](https://wa.me/923036643426)
 
 
 ## 🛠️ My Tech Stack:
