@@ -13,9 +13,9 @@ I'm a passionate Software Engineer with 3+ years of experience in Angular develo
 
 ###  Connect with Me
 
+-  Microsoft Teams | Skype Email: **muhammaddanyal429@gmail.com**
 -  [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&logoColor=white)](https://wa.me/923001234567)
 -  [![Email](https://img.shields.io/badge/Email-blue?logo=gmail&logoColor=white)](mailto:your.email@example.com)
--  [![Teams](https://img.shields.io/badge/Teams-purple?logo=microsoft-teams&logoColor=white)] your-teams-email@yourcompany.com
 
 
 ## 🛠️ My Tech Stack:
