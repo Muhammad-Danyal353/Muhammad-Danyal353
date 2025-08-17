@@ -1,13 +1,18 @@
-# Hello, I'm HM Danyal 👋
+# Hello, I'm Hafiz Muhammad Danyal 👋
 
 ## 👨‍💻 About Me:
-I'm a passionate Software Engineer with 3+ years of experience in Angular development, and I'm rapidly expanding my skills in Python, AI/ML, and Computer Vision. I specialize in building intelligent solutions—from RAG-based chatbots to custom OpenCV projects—that solve real-world problems and drive innovation.
+I help businesses build and deploy deep learning models, chatbots, and web app solutions with clean datasets, efficient deployment, and clear deliverables.
 
-- 💻 Expert in Angular, Python, and AI/ML  
-- 🔍 Creator of RAG-based chatbots and real-time document chat systems  
-- 🎥 OpenCV enthusiast with hands-on projects in YOLO-based object detection, gesture-controlled game systems, and number plate recognition  
-- 🌍 Dedicated to contributing to technological advancements in my country and beyond  
-- 💬 Always excited to discuss technology, programming, and process improvements
+I specialize in:
+
+Deep Learning & ML: image classification, NLP, object detection, transfer learning.
+Data Annotation & QA: scalable labeling workflows to ensure clean datasets.
+Chatbots & Integrations: custom conversational AI with web and API deployment.
+Web Development: Angular, TypeScript, WordPress, WooCommerce, responsive front-end design.
+MLOps & Deployment: containerized APIs, CI/CD pipelines, reproducible workflows.
+Data Analysis & Reports: metrics, dashboards, and actionable insights.
+
+I work with Python, TensorFlow, PyTorch, scikit-learn, Angular, WordPress, Docker, and Git. My focus is on production-ready deliverables, milestone-based progress, and clear documentation.
 
 [See My Portfolio](https://danyalsajid.netlify.app/)
 
