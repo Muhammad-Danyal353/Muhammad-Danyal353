@@ -19,7 +19,7 @@ I work with Python, TensorFlow, PyTorch, scikit-learn, Angular, WordPress, Docke
 ###  Connect with Me
 
 -  Microsoft Teams | Skype Email: **muhammaddanyal429@gmail.com**
--  [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&logoColor=white)](https://wa.me/923001234567)
+-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&logoColor=white)](https://wa.me/923036643426)
 
 
 ## 🛠️ My Tech Stack:
